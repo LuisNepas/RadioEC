@@ -11,12 +11,12 @@
       },
       {
          "ID":54,
-         "RadioName":"Desi Music Mix",
-         "RadioURL":"http://66.23.234.242:8012/;",
+         "RadioName":"Radio América",
+         "RadioURL":"https://v2.tustreaming.cl/utvsc/live1/index.m3u8",
          "RadioDesc":"Desi Music Mix radio is a Desi radio streaming Hindi, Punjabi and Bhangra songs 24/7.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desimusicmix.com/",
-         "RadioPic":"url.com/RadioPics/54.png?dt=2515202008:15:14"
+         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/radio-america.png"
       },
       {
          "ID":55,
