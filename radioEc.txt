@@ -20,12 +20,12 @@
       },
       {
          "ID":55,
-         "RadioName":"Dhol Radio 24x7",
-         "RadioURL":"http://gill.sukhpal.net:8000/;",
+         "RadioName":"Joya Estereo",
+         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-joya.m3u8",
          "RadioDesc":"Dhol Radio is the first Punjabi Radio which is broadcasting from a village of Punjab. Dhol Radio 24/7 Punjabi Music, Bhangra.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.dholradio.co/",
-         "RadioPic":"url.com/RadioPics/55.png?dt=2515202008:15:14"
+         "RadioPic":"https://www.joya.com.ec/wp-content/uploads/sites/14/2021/10/logo-joya.png"
       },
       {
          "ID":57,
