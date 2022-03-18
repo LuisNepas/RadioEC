@@ -3,7 +3,7 @@
       {
          "ID":53,
          "RadioName":"La Metro Radio EC",
-         "RadioURL":"http://stream.zenolive.com/4mbfcn4mf24tv",
+         "RadioURL":"https://www.lametro.com.ec/radios/en-vivo/",
          "RadioDesc":"The Desi World Radio is introducing an internet radio that can access more than 500 Desi radio stations in over 150 countries around the world with no monthly fees.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desiworldradio.com",
