@@ -34,7 +34,7 @@
          "RadioDesc":"98.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"https://www.alfa.com.ec/",
-         "RadioPic":"https://www.alfa.com.ec/wp-content/uploads/sites/3/2021/11/alfa-degra.png"
+         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/alfa.png"
       },
       {
          "ID":58,
