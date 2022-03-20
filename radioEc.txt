@@ -29,12 +29,12 @@
       },
       {
          "ID":57,
-         "RadioName":"Humsafar Radio Canada",
-         "RadioURL":"http://66.90.104.41:8214/;",
-         "RadioDesc":"Radio Humsafar streaming in Hindi, Punjabi, Urdu and English live from Canada.",
+         "RadioName":"Alfa Radio",
+         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-alfa.m3u8",
+         "RadioDesc":"98.5 FM",
          "RadioShortDesc":null,
-         "RadioWebsite":"http://www.radiohumsafar.com",
-         "RadioPic":"url.com/RadioPics/57.png?dt=2515202008:15:14"
+         "RadioWebsite":"https://www.alfa.com.ec/",
+         "RadioPic":"https://www.alfa.com.ec/wp-content/uploads/sites/3/2021/11/alfa-degra.png"
       },
       {
          "ID":58,
