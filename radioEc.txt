@@ -2,7 +2,7 @@
    "Data":[
       {
          "ID":53,
-         "RadioName":"La Metro osita EC",
+         "RadioName":"La Metro",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-lametro.m3u8",
          "RadioDesc":"88.5 FM",
          "RadioShortDesc":null,
@@ -22,7 +22,7 @@
          "ID":55,
          "RadioName":"Joya Estereo",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-joya.m3u8",
-         "RadioDesc":"Dhol Radio is the first Punjabi Radio which is broadcasting from a village of Punjab. Dhol Radio 24/7 Punjabi Music, Bhangra.",
+         "RadioDesc":"97.3 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.dholradio.co/",
          "RadioPic":"https://www.joya.com.ec/wp-content/uploads/sites/14/2021/10/logo-joya.png"
