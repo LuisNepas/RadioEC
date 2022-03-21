@@ -2,7 +2,7 @@
    "Data":[
       {
          "ID":53,
-         "RadioName":"La Metro Radio",
+         "RadioName":"La Metro",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-lametro.m3u8",
          "RadioDesc":"88.5 FM1",
          "RadioShortDesc":null,
@@ -11,16 +11,16 @@
       },
       {
          "ID":54,
-         "RadioName":"Radio América EC",
+         "RadioName":"Radio América",
          "RadioURL":"https://streamingwowza.com:1936/radioamericaquito/radioamericaquito/playlist.m3u8?PlaylistM3UCL",
-         "RadioDesc":"100.A FM",
+         "RadioDesc":"100.AL FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desimusicmix.com/",
          "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/radio-america.png"
       },
       {
          "ID":55,
-         "RadioName":"Joya Estereo EC",
+         "RadioName":"Joya Estereo",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-joya.m3u8",
          "RadioDesc":"97.3 FM",
          "RadioShortDesc":null,
