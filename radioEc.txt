@@ -13,7 +13,7 @@
          "ID":54,
          "RadioName":"Radio América",
          "RadioURL":"https://streamingwowza.com:1936/radioamericaquito/radioamericaquito/playlist.m3u8?PlaylistM3UCL",
-         "RadioDesc":"100 FM",
+         "RadioDesc":"100.A FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desimusicmix.com/",
          "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/radio-america.png"
@@ -22,7 +22,7 @@
          "ID":55,
          "RadioName":"Joya Estereo",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-joya.m3u8",
-         "RadioDesc":"97.3 FM1",
+         "RadioDesc":"97.3 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.dholradio.co/",
          "RadioPic":"https://www.joya.com.ec/wp-content/uploads/sites/14/2021/10/logo-joya.png"
