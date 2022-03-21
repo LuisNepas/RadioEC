@@ -2,9 +2,9 @@
    "Data":[
       {
          "ID":53,
-         "RadioName":"La Metro Radio",
+         "RadioName":"La MetroRadio",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-lametro.m3u8",
-         "RadioDesc":"88.5 FM",
+         "RadioDesc":"88.5 FM1",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desiworldradio.com",
          "RadioPic":"https://www.lametro.com.ec/wp-content/uploads/sites/12/2021/10/logo-lametro.png"
