@@ -4,7 +4,7 @@
          "ID":53,
          "RadioName":"La Metro",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-lametro.m3u8",
-         "RadioDesc":"88.5 FM1",
+         "RadioDesc":"88.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desiworldradio.com",
          "RadioPic":"https://www.lametro.com.ec/wp-content/uploads/sites/12/2021/10/logo-lametro.png"
@@ -13,7 +13,7 @@
          "ID":54,
          "RadioName":"Radio América",
          "RadioURL":"https://streamingwowza.com:1936/radioamericaquito/radioamericaquito/playlist.m3u8?PlaylistM3UCL",
-         "RadioDesc":"100.AL FM",
+         "RadioDesc":"104.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desimusicmix.com/",
          "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/radio-america.png"
