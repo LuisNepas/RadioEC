@@ -47,12 +47,12 @@
       },
       {
          "ID":5,
-         "RadioName":"Canela Radio",
-         "RadioURL":"https://us9.maindigitalstream.com/ssl/7005",
-         "RadioDesc":"Panjab Radio is an energetic business offering entertaining radio programmes to listeners throughout the UK, Europe and worldwide on different platforms.",
+         "RadioName":"Galaxia",
+         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-galaxia.m3u8",
+         "RadioDesc":"worldwide on different platforms.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.panjabradio.co.uk/",
-         "RadioPic":"https://us0-cdn.onlineradiobox.com/img/l/8/61388.v19.png"
+         "RadioPic":"https://us0-cdn.onlineradiobox.com/img/l/6/29916.v6.png"
       },
       {
          "ID":6,
