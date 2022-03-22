@@ -38,12 +38,12 @@
       },
       {
          "ID":4,
-         "RadioName":"Radio Afsana",
-         "RadioURL":"http://174.36.206.197:7019/;",
-         "RadioDesc":"Radio Afsana 24/7 is new remix non-stop online radio station mix Masala, Desi, Hindi, Bhangra with the latest and hit songs from Bollywood.",
+         "RadioName":"Exa Radio",
+         "RadioURL":"https://exafm.com/ecuador/",
+         "RadioDesc":"92.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://radioafsana.com/",
-         "RadioPic":"url.com/RadioPics/58.png?dt=2515202008:15:14"
+         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/exa.png"
       },
       {
          "ID":5,
