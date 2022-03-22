@@ -84,7 +84,7 @@
       {
          "ID":9,
          "RadioName":"Zaracay",
-         "RadioURL":"https://stream.zeno.fm/as3xhhc0ts8uv",
+         "RadioURL":"http://stream.zeno.fm/as3xhhc0ts8uv",
          "RadioDesc":"Punjabi Bhangra 24X7 - The Musical Seduction Network",
          "RadioShortDesc":null,
          "RadioWebsite":"http://punjabi-bhangra.rfpradio.com/",
