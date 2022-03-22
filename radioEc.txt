@@ -12,7 +12,7 @@
       {
          "ID":1,
          "RadioName":"Radio América",
-         "RadioURL":"https://streamingwowza.com:1936/radioamericaquito/radioamericaquito/playlist.m3u8?PlaylistM3UCL",
+         "RadioURL":"https://streamingecuador.net:9101/stream",
          "RadioDesc":"104.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desimusicmix.com/",
@@ -56,57 +56,57 @@
       },
       {
          "ID":6,
-         "RadioName":"Chann Pardesi Punjabi Radio",
-         "RadioURL":"http://mehramedia.com:8021/",
-         "RadioDesc":"Radio Chann Pardesi - Chann Pardesi Punjabi Radio Bolingbrook, IL - listen online, schedule, location, contact, song playlist and broadcast information.",
+         "RadioName":"Pichincha Universal",
+         "RadioURL":"http://181.196.48.61:8000/stream",
+         "RadioDesc":"e, schedule, location, contact, song playlist and broadcast information.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://channpardesi.com",
-         "RadioPic":"url.com/RadioPics/64.png?dt=2515202008:15:14"
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/4/30084.v4.png"
       },
       {
          "ID":7,
-         "RadioName":"Raaj FM8",
-         "RadioURL":"http://live.canstream.co.uk:8000/raajfm.mp3",
+         "RadioName":"Fransico Stereo",
+         "RadioURL":"https://streamingecuador.com:8004/franciscostereo",
          "RadioDesc":"Raaj FM broadcasts a number of programmes that serve the Punjabi community.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.raajfm.com/",
-         "RadioPic":"url.com/RadioPics/65.png?dt=2515202008:15:14"
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/9/29559.v6.png"
       },
       {
          "ID":8,
-         "RadioName":"Radio Punjabi Virsa",
-         "RadioURL":"http://stream.zenolive.com/25h82wv629duv",
+         "RadioName":"La Suprema Estación",
+         "RadioURL":"http://www.makrodigital.net:7644/radiola961?type=.mp3/;stream.mp3",
          "RadioDesc":"Best Punjabi Songs ever",
          "RadioShortDesc":null,
          "RadioWebsite":"http://radiopunjabivirsa.com/",
-         "RadioPic":"url.com/RadioPics/184.png?dt=2515202008:15:14"
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/5/30265.v3.png"
       },
       {
          "ID":9,
-         "RadioName":"RFPRADIO.COM-Punjabi Bhangra 24X7",
-         "RadioURL":"http://184.171.163.20:8234/;stream.mp3",
+         "RadioName":"Zaracay",
+         "RadioURL":"https://stream.zeno.fm/as3xhhc0ts8uv",
          "RadioDesc":"Punjabi Bhangra 24X7 - The Musical Seduction Network",
          "RadioShortDesc":null,
          "RadioWebsite":"http://punjabi-bhangra.rfpradio.com/",
-         "RadioPic":"url.com/RadioPics/69.png?dt=2515202008:15:14"
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/6/29456.v13.png"
       },   
       {
          "ID":10,
-         "RadioName":"DesiNetworks",
-         "RadioURL":"http://192.99.8.192:3224/;",
+         "RadioName":"Radio Disney EC",
+         "RadioURL":"https://streamingecuador.net:8001/radiodisney.mp3",
          "RadioDesc":"DesiNetworks is an online radio station originated from Singapore playing the best Bollywood/Bhangra/Punjabi songs.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desinetworks.org",
-         "RadioPic":"url.com/RadioPics/73.png?dt=2515202008:15:14"
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/4/29254.v8.png"
       },
       {
          "ID":11,
-         "RadioName":"SBS PopDesi",
-         "RadioURL":"http://sbs-ice.streamguys1.com/sbs-popdesi",
+         "RadioName":"La Otra ",
+         "RadioURL":"https://us9.maindigitalstream.com/ssl/7712",
          "RadioDesc":"SBS PopDesi - non-stop Desi pop. The best Bollywood, Bhangra and Desi pop playing 24/7 on digital radio, online and mobile.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.sbs.com.au/radio/popdesi",
-         "RadioPic":"url.com/RadioPics/76.png?dt=2515202008:15:14"
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/1/30721.v10.png"
       },
       {
          "ID":12,
