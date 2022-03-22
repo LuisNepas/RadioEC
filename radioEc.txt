@@ -39,7 +39,7 @@
       {
          "ID":4,
          "RadioName":"Exa Radio",
-         "RadioURL":"https://exafm.com/ecuador/",
+         "RadioURL":"https://17553.live.streamtheworld.com/ECUADOR_SC?dist=onlineradiobox",
          "RadioDesc":"92.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://radioafsana.com/",
