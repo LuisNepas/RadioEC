@@ -57,7 +57,7 @@
       {
          "ID":6,
          "RadioName":"Pichincha Universal",
-         "RadioURL":"http://181.196.48.61:8000/stream",
+         "RadioURL":"https://streaming.pichinchacomunicaciones.com.ec:8443/stream",
          "RadioDesc":"e, schedule, location, contact, song playlist and broadcast information.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://channpardesi.com",
