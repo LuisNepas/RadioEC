@@ -47,12 +47,12 @@
       },
       {
          "ID":5,
-         "RadioName":"Panjab Radio",
-         "RadioURL":"http://s1.voscast.com:7918/;",
+         "RadioName":"Canela Radio",
+         "RadioURL":"https://us9.maindigitalstream.com/ssl/7005",
          "RadioDesc":"Panjab Radio is an energetic business offering entertaining radio programmes to listeners throughout the UK, Europe and worldwide on different platforms.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.panjabradio.co.uk/",
-         "RadioPic":"url.com/RadioPics/62.png?dt=2515202008:15:14"
+         "RadioPic":"https://us0-cdn.onlineradiobox.com/img/l/8/61388.v19.png"
       },
       {
          "ID":6,
