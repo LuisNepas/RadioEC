@@ -107,43 +107,8 @@
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.sbs.com.au/radio/popdesi",
          "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/1/30721.v10.png"
-      },
-      {
-         "ID":12,
-         "RadioName":"Desi Tarian",
-         "RadioURL":"http://usa6.fastcast4u.com:5029/autodj",
-         "RadioDesc":"Desi Tarian stesen radio dalam talian berasal dari Singapura bermain semua bollywood / tarian bhangra Hitz.",
-         "RadioShortDesc":null,
-         "RadioWebsite":"http://www.desinetworks.org",
-         "RadioPic":"url.com/RadioPics/77.png?dt=2515202008:15:14"
-      },
-      {
-         "ID":13,
-         "RadioName":"Taal Radio",
-         "RadioURL":"http://192.151.153.234:9998/;stream.mp3",
-         "RadioDesc":"TaalRadio is a 24hr non stop Bollywood Hindi music online radio station.",
-         "RadioShortDesc":null,
-         "RadioWebsite":"http://www.taalradio.com/",
-         "RadioPic":"url.com/RadioPics/78.png?dt=2515202008:15:14"
-      },
-      {
-         "ID":14,
-         "RadioName":"BHANGRA ROADSHOW",
-         "RadioURL":"http://desi.canstream.co.uk:8001/live.mp3",
-         "RadioDesc":"Desi plays the best in Bhangra",
-         "RadioShortDesc":null,
-         "RadioWebsite":"http://www.desiradio.org.uk",
-         "RadioPic":"url.com/RadioPics/117.png?dt=2515202008:15:14"
-      },
-      {
-         "ID":15,
-         "RadioName":"Non Stop Punjabi Radio",
-         "RadioURL":"http://74.50.122.103:7020/;",
-         "RadioDesc":"24x7 Non Stop Punjabi Music Radio Station",
-         "RadioShortDesc":null,
-         "RadioWebsite":"http://www.nonstoppunjabi.com/",
-         "RadioPic":"url.com/RadioPics/120.png?dt=2515202008:15:14"
-      }     
+      }
+         
    ],
    "Message":"72",
    "Result":1
