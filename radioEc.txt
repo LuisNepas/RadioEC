@@ -11,7 +11,7 @@
       },
       {
          "ID":1,
-         "RadioName":"Radio América",
+         "RadioName":"Radio América EC",
          "RadioURL":"https://streamingecuador.net:9101/stream",
          "RadioDesc":"104.5 FM",
          "RadioShortDesc":null,
