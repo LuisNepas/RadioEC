@@ -92,7 +92,7 @@
       },   
       {
          "ID":10,
-         "RadioName":"Radio Disney EC",
+         "RadioName":"Radio Disney",
          "RadioURL":"https://streamingecuador.net:8001/radiodisney.mp3",
          "RadioDesc":"DesiNetworks is an online radio station originated from Singapore playing the best Bollywood/Bhangra/Punjabi songs.",
          "RadioShortDesc":null,
