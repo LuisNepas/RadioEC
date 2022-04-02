@@ -103,7 +103,7 @@
          "ID":11,
          "RadioName":"La Otra ",
          "RadioURL":"https://us9.maindigitalstream.com/ssl/7712",
-         "RadioDesc":"SBS PopDesi - non-stop Desi pop. The best Bollywood, Bhangra and Desi pop playing 24/7 on digital radio, online and mobile.",
+         "RadioDesc":"99.7 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.sbs.com.au/radio/popdesi",
          "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/1/30721.v10.png"
