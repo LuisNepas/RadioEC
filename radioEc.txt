@@ -49,7 +49,7 @@
          "ID":5,
          "RadioName":"Galaxia",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-galaxia.m3u8",
-         "RadioDesc":"worldwide on different platforms.",
+         "RadioDesc":"93.7 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.panjabradio.co.uk/",
          "RadioPic":"https://us0-cdn.onlineradiobox.com/img/l/6/29916.v6.png"
@@ -58,7 +58,7 @@
          "ID":6,
          "RadioName":"Pichincha Universal",
          "RadioURL":"https://github.com/LuisNepas/RadioEC/blob/main/stream.m3u",
-         "RadioDesc":"e, schedule, location, contact, song playlist and broadcast information.",
+         "RadioDesc":"95.3 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://channpardesi.com",
          "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/4/30084.v4.png"
