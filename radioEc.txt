@@ -92,7 +92,7 @@
       },   
       {
          "ID":10,
-         "RadioName":"Radio Disney",
+         "RadioName":"Radio Disney- fail",
          "RadioURL":"https://streamingecuador.net:8001/radiodisney.mp3",
          "RadioDesc":"90.5 FM",
          "RadioShortDesc":null,
