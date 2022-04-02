@@ -67,7 +67,7 @@
          "ID":7,
          "RadioName":"Fransico Stereo",
          "RadioURL":"https://streamingecuador.com:8004/franciscostereo",
-         "RadioDesc":"Raaj FM broadcasts a number of programmes that serve the Punjabi community.",
+         "RadioDesc":"102.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.raajfm.com/",
          "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/9/29559.v6.png"
