@@ -76,7 +76,7 @@
          "ID":8,
          "RadioName":"La Suprema Estación",
          "RadioURL":"http://www.makrodigital.net:7644/radiola961?type=.mp3/;stream.mp3",
-         "RadioDesc":"Best Punjabi Songs ever",
+         "RadioDesc":"96.1 FMr",
          "RadioShortDesc":null,
          "RadioWebsite":"http://radiopunjabivirsa.com/",
          "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/5/30265.v3.png"
