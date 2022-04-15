@@ -1,0 +1,112 @@
+[
+      {
+         "ID":0,
+         "RadioName":"La Metro",
+         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-lametro.m3u8",
+         "RadioDesc":"88.5 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.desiworldradio.com",
+         "RadioPic":"https://www.lametro.com.ec/wp-content/uploads/sites/12/2021/10/logo-lametro.png"
+      },
+      {
+         "ID":1,
+         "RadioName":"Radio América ",
+         "RadioURL":"https://streamingecuador.net:9101/stream",
+         "RadioDesc":"104.5 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.desimusicmix.com/",
+         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/radio-america.png"
+      },
+      {
+         "ID":2,
+         "RadioName":"Joya Estereo",
+         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-joya.m3u8",
+         "RadioDesc":"97.3 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.dholradio.co/",
+         "RadioPic":"https://www.joya.com.ec/wp-content/uploads/sites/14/2021/10/logo-joya.png"
+      },
+      {
+         "ID":3,
+         "RadioName":"Alfa Radio",
+         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-alfa.m3u8",
+         "RadioDesc":"98.5 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"https://www.alfa.com.ec/",
+         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/alfa.png"
+      },
+      {
+         "ID":4,
+         "RadioName":"Exa Radio",
+         "RadioURL":"https://17553.live.streamtheworld.com/ECUADOR_SC?dist=onlineradiobox",
+         "RadioDesc":"92.5 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://radioafsana.com/",
+         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/exa.png"
+      },
+      {
+         "ID":5,
+         "RadioName":"Galaxia",
+         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-galaxia.m3u8",
+         "RadioDesc":"93.7 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.panjabradio.co.uk/",
+         "RadioPic":"https://us0-cdn.onlineradiobox.com/img/l/6/29916.v6.png"
+      },
+      {
+         "ID":6,
+         "RadioName":"Pichincha Universal",
+         "RadioURL":"https://github.com/LuisNepas/RadioEC/blob/main/stream.m3u",
+         "RadioDesc":"95.3 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://channpardesi.com",
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/4/30084.v4.png"
+      },
+      {
+         "ID":7,
+         "RadioName":"Fransico Stereo",
+         "RadioURL":"https://streamingecuador.com:8004/franciscostereo",
+         "RadioDesc":"102.5 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.raajfm.com/",
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/9/29559.v6.png"
+      },
+      {
+         "ID":8,
+         "RadioName":"La Suprema Estación",
+         "RadioURL":"http://www.makrodigital.net:7644/radiola961?type=.mp3/;stream.mp3",
+         "RadioDesc":"96.1 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://radiopunjabivirsa.com/",
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/5/30265.v3.png"
+      },
+      {
+         "ID":9,
+         "RadioName":"Zaracay",
+         "RadioURL":"http://stream.zeno.fm/as3xhhc0ts8uv",
+         "RadioDesc":"100.5 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://punjabi-bhangra.rfpradio.com/",
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/6/29456.v13.png"
+      },   
+      {
+         "ID":10,
+         "RadioName":"Radio Disney- fail",
+         "RadioURL":"https://streamingecuador.net:8001/radiodisney.mp3",
+         "RadioDesc":"90.5 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.desinetworks.org",
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/4/29254.v8.png"
+      },
+      {
+         "ID":11,
+         "RadioName":"La Otra ",
+         "RadioURL":"https://us9.maindigitalstream.com/ssl/7712",
+         "RadioDesc":"99.7 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.sbs.com.au/radio/popdesi",
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/1/30721.v10.png"
+      }
+         
+   ]
+  
