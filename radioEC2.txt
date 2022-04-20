@@ -6,7 +6,7 @@
          "RadioDesc":"88.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desiworldradio.com",
-         "RadioPic":"https://www.lametro.com.ec/wp-content/uploads/sites/12/2021/10/logo-lametro.png"
+         "RadioPic":"https://image.winudf.com/v2/image/Y29tLnJhZGlvLmxhbWV0cm9fc2NyZWVuc2hvdHNfMF9hZGEyMDc3NA/screen-0.jpg?fakeurl=1&type=.webp"
       },
       {
          "ID":1,
