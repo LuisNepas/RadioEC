@@ -30,7 +30,7 @@
          
       },
        {
-         "ID":9,
+         "ID":3,
          "RadioName":"Platinum",
          "RadioURL":"https://streamingecuador.com:8160/radioplatinum",
          "RadioDesc":"90.9 FM",
@@ -39,7 +39,7 @@
          "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/platinum-quito.png"
       },
       {
-         "ID":3,
+         "ID":4,
          "RadioName":"La Otra FM",
          "RadioURL":"https://laotrafmradio.latamserver.com/8003/stream",
          "RadioDesc":"91.3 FM",
@@ -48,7 +48,7 @@
          "RadioPic":"//us0-cdn.onlineradiobox.com/img/l/1/30721.v11.png"
       },
       {
-         "ID":4,
+         "ID":5,
          "RadioName":"Exa Radio",
          "RadioURL":"https://17553.live.streamtheworld.com/ECUADOR_SC?dist=onlineradiobox",
          "RadioDesc":"92.5 FM",
@@ -58,7 +58,7 @@
          
       },
        {
-         "ID":5,
+         "ID":6,
          "RadioName":"Galaxia",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-galaxia.m3u8",
          "RadioDesc":"93.7 FM",
@@ -67,7 +67,7 @@
          "RadioPic":"https://us0-cdn.onlineradiobox.com/img/l/6/29916.v6.png"
       },
       {
-         "ID":6,
+         "ID":7,
          "RadioName":"La Suprema Estación",
          "RadioURL":"https://dattavolt.com/8150/stream/2/",
          "RadioDesc":"96.1 FM",
@@ -76,7 +76,7 @@
          "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/5/30265.v3.png"
       },
       {
-         "ID":7,
+         "ID":8,
          "RadioName":"Joya Estereo",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-joya.m3u8",
          "RadioDesc":"97.3 FM",
@@ -85,7 +85,7 @@
          "RadioPic":"https://www.joya.com.ec/wp-content/uploads/sites/14/2021/10/logo-joya.png"
       },
       {
-         "ID":8,
+         "ID":9,
          "RadioName":"Alfa Radio",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-alfa.m3u8",
          "RadioDesc":"98.5 FM",
@@ -94,7 +94,7 @@
          "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/alfa.png"
       },
       {
-         "ID":14,
+         "ID":10,
          "RadioName":"La Rumbera",
          "RadioURL":"http://cast.uncuartocomunicacion.com:8040/live_hd",
          "RadioDesc":"99.7 FM",
@@ -104,7 +104,7 @@
       }
        
       {
-         "ID":10,
+         "ID":11,
          "RadioName":"Zaracay",
          "RadioURL":"http://stream.zeno.fm/as3xhhc0ts8uv",
          "RadioDesc":"100.5 FM",
@@ -115,7 +115,7 @@
      
       
       {
-         "ID":11,
+         "ID":12,
          "RadioName":"Fransico Stereo",
          "RadioURL":"https://streamingecuador.com:8004/franciscostereo",
          "RadioDesc":"102.5 FM",
@@ -126,7 +126,7 @@
       
         
       {
-         "ID":12,
+         "ID":13,
          "RadioName":"Radio América",
          "RadioURL":"https://streamingecuador.net:9101/stream",
          "RadioDesc":"104.5 FM",
@@ -136,7 +136,7 @@
       },
      
       {
-         "ID":13,
+         "ID":14,
          "RadioName":"Canela",
          "RadioURL":"https://laotrafmradio.latamserver.com//8001//stream",
          "RadioDesc":"106.5 FM",
