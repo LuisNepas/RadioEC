@@ -49,7 +49,7 @@
       },
       {
          "ID":5,
-         "RadioName":"Joya Estereo ec",
+         "RadioName":"Joya Estereo",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-joya.m3u8",
          "RadioDesc":"97.3 FM",
          "RadioShortDesc":null,
@@ -89,7 +89,7 @@
       {
          "ID":9,
          "RadioName":"La Suprema Estación",
-         "RadioURL":"http://www.makrodigital.net:7644/radiola961?type=.mp3/;stream.mp3",
+         "RadioURL":"https://dattavolt.com/8150/stream/2/",
          "RadioDesc":"96.1 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://radiopunjabivirsa.com/",
