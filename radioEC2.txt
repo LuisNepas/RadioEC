@@ -10,6 +10,16 @@
       },
       {
          "ID":1,
+         "RadioName":"HCJB",
+         "RadioURL":"https://hcjb.org/wp-content/uploads/2020/12/MC-AUDIO-2020.mp3",
+         "RadioDesc":"89.3 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.desinetworks.org",
+         "RadioPic":"https://521178.smushcdn.com/2701741/wp-content/uploads/2021/07/HCJB-90-Normal.jpg?lossy=1&strip=1&webp=1"
+         
+      },
+      {
+         "ID":2,
          "RadioName":"Radio Disney",
          "RadioURL":"https://streamingecuador.net:8001/radiodisney.mp3",
          "RadioDesc":"90.5 FM",
@@ -19,7 +29,7 @@
          
       },
       {
-         "ID":2,
+         "ID":3,
          "RadioName":"Exa Radio",
          "RadioURL":"https://17553.live.streamtheworld.com/ECUADOR_SC?dist=onlineradiobox",
          "RadioDesc":"92.5 FM",
@@ -28,26 +38,8 @@
          "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/exa.png"
          
       },
-      {
-         "ID":3,
-         "RadioName":"Alfa Radio",
-         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-alfa.m3u8",
-         "RadioDesc":"98.5 FM",
-         "RadioShortDesc":null,
-         "RadioWebsite":"https://www.alfa.com.ec/",
-         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/alfa.png"
-      },
-      {
+       {
          "ID":4,
-         "RadioName":"Joya Estereo ec",
-         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-joya.m3u8",
-         "RadioDesc":"97.3 FM",
-         "RadioShortDesc":null,
-         "RadioWebsite":"http://www.dholradio.co/",
-         "RadioPic":"https://www.joya.com.ec/wp-content/uploads/sites/14/2021/10/logo-joya.png"
-      },
-      {
-         "ID":5,
          "RadioName":"Galaxia",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-galaxia.m3u8",
          "RadioDesc":"93.7 FM",
@@ -56,7 +48,28 @@
          "RadioPic":"https://us0-cdn.onlineradiobox.com/img/l/6/29916.v6.png"
       },
       {
+         "ID":5,
+         "RadioName":"Joya Estereo ec",
+         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-joya.m3u8",
+         "RadioDesc":"97.3 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.dholradio.co/",
+         "RadioPic":"https://www.joya.com.ec/wp-content/uploads/sites/14/2021/10/logo-joya.png"
+      },
+      {
          "ID":6,
+         "RadioName":"Alfa Radio",
+         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-alfa.m3u8",
+         "RadioDesc":"98.5 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"https://www.alfa.com.ec/",
+         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/alfa.png"
+      },
+       
+      
+     
+      {
+         "ID":7,
          "RadioName":"Pichincha Universal",
          "RadioURL":"https://github.com/LuisNepas/RadioEC/blob/main/stream.m3u",
          "RadioDesc":"95.3 FM",
@@ -65,7 +78,7 @@
          "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/4/30084.v4.png"
       },
       {
-         "ID":7,
+         "ID":8,
          "RadioName":"Fransico Stereo",
          "RadioURL":"https://streamingecuador.com:8004/franciscostereo",
          "RadioDesc":"102.5 FM",
@@ -74,7 +87,7 @@
          "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/9/29559.v6.png"
       },
       {
-         "ID":8,
+         "ID":9,
          "RadioName":"La Suprema Estación",
          "RadioURL":"http://www.makrodigital.net:7644/radiola961?type=.mp3/;stream.mp3",
          "RadioDesc":"96.1 FM",
@@ -83,7 +96,7 @@
          "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/5/30265.v3.png"
       },
       {
-         "ID":9,
+         "ID":10,
          "RadioName":"Zaracay",
          "RadioURL":"http://stream.zeno.fm/as3xhhc0ts8uv",
          "RadioDesc":"100.5 FM",
@@ -92,7 +105,7 @@
          "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/6/29456.v13.png"
       },   
       {
-         "ID":10,
+         "ID":11,
          "RadioName":"Radio América",
          "RadioURL":"https://streamingecuador.net:9101/stream",
          "RadioDesc":"104.5 FM",
@@ -101,14 +114,22 @@
          "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/radio-america.png"
       },
       {
-         "ID":11,
+         "ID":12,
          "RadioName":"Platinum",
          "RadioURL":"https://streamingecuador.com:8160/radioplatinum",
          "RadioDesc":"99.7 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.sbs.com.au/radio/popdesi",
          "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/platinum-quito.png"
+      },
+      {
+         "ID":13,
+         "RadioName":"Canela",
+         "RadioURL":"https://laotrafmradio.latamserver.com//8001//stream",
+         "RadioDesc":"93.7 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.panjabradio.co.uk/",
+         "RadioPic":"https://web.canelaradio.com/wp-content/uploads/2020/11/cropped-FAVI_Mesa-de-trabajo-1-270x270.png"
       }
-         
    ]
   
