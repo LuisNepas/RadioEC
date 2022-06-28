@@ -45,7 +45,7 @@
          "RadioDesc":"91.3 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://channpardesi.com",
-         "RadioPic":"//us0-cdn.onlineradiobox.com/img/l/1/30721.v11.png"
+         "RadioPic":"https://web.laotrafm.com/wp-content/uploads/2020/09/ahora-si.gif"
       },
       {
          "ID":5,
