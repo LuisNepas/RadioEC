@@ -1,7 +1,7 @@
 [
       {
          "ID":0,
-         "RadioName":"La Metro Ec",
+         "RadioName":"La Metro",
          "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-lametro.m3u8",
          "RadioDesc":"88.5 FM",
          "RadioShortDesc":null,
@@ -10,7 +10,7 @@
       },
       {
          "ID":1,
-         "RadioName":"Radio América Ec",
+         "RadioName":"Radio América",
          "RadioURL":"https://streamingecuador.net:9101/stream",
          "RadioDesc":"104.5 FM",
          "RadioShortDesc":null,
