@@ -71,7 +71,7 @@
       {
          "ID":7,
          "RadioName":"Pichincha Universal",
-         "RadioURL":"https://github.com/LuisNepas/RadioEC/blob/main/stream.m3u",
+         "RadioURL":"https://streaming.pichinchacomunicaciones.com.ec:8443/stream",
          "RadioDesc":"95.3 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://channpardesi.com",
