@@ -102,12 +102,12 @@
       },
       {
          "ID":11,
-         "RadioName":"La Otra ",
-         "RadioURL":"https://us9.maindigitalstream.com/ssl/7712",
+         "RadioName":"Platinum",
+         "RadioURL":"https://streamingecuador.com:8160/radioplatinum",
          "RadioDesc":"99.7 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.sbs.com.au/radio/popdesi",
-         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/1/30721.v10.png"
+         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/platinum-quito.png"
       }
          
    ]
