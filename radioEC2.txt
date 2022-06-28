@@ -10,21 +10,23 @@
       },
       {
          "ID":1,
-         "RadioName":"Radio América",
-         "RadioURL":"https://streamingecuador.net:9101/stream",
-         "RadioDesc":"104.5 FM",
+         "RadioName":"Radio Disney",
+         "RadioURL":"https://streamingecuador.net:8001/radiodisney.mp3",
+         "RadioDesc":"90.5 FM",
          "RadioShortDesc":null,
-         "RadioWebsite":"http://www.desimusicmix.com/",
-         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/radio-america.png"
+         "RadioWebsite":"http://www.desinetworks.org",
+         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/4/29254.v8.png"
+         
       },
       {
          "ID":2,
-         "RadioName":"Joya Estereo ec",
-         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-joya.m3u8",
-         "RadioDesc":"97.3 FM",
+         "RadioName":"Exa Radio",
+         "RadioURL":"https://17553.live.streamtheworld.com/ECUADOR_SC?dist=onlineradiobox",
+         "RadioDesc":"92.5 FM",
          "RadioShortDesc":null,
-         "RadioWebsite":"http://www.dholradio.co/",
-         "RadioPic":"https://www.joya.com.ec/wp-content/uploads/sites/14/2021/10/logo-joya.png"
+         "RadioWebsite":"http://radioafsana.com/",
+         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/exa.png"
+         
       },
       {
          "ID":3,
@@ -37,12 +39,12 @@
       },
       {
          "ID":4,
-         "RadioName":"Exa Radio",
-         "RadioURL":"https://17553.live.streamtheworld.com/ECUADOR_SC?dist=onlineradiobox",
-         "RadioDesc":"92.5 FM",
+         "RadioName":"Joya Estereo ec",
+         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-joya.m3u8",
+         "RadioDesc":"97.3 FM",
          "RadioShortDesc":null,
-         "RadioWebsite":"http://radioafsana.com/",
-         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/exa.png"
+         "RadioWebsite":"http://www.dholradio.co/",
+         "RadioPic":"https://www.joya.com.ec/wp-content/uploads/sites/14/2021/10/logo-joya.png"
       },
       {
          "ID":5,
@@ -91,12 +93,12 @@
       },   
       {
          "ID":10,
-         "RadioName":"Radio Disney- fail",
-         "RadioURL":"https://streamingecuador.net:8001/radiodisney.mp3",
-         "RadioDesc":"90.5 FM",
+         "RadioName":"Radio América",
+         "RadioURL":"https://streamingecuador.net:9101/stream",
+         "RadioDesc":"104.5 FM",
          "RadioShortDesc":null,
-         "RadioWebsite":"http://www.desinetworks.org",
-         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/4/29254.v8.png"
+         "RadioWebsite":"http://www.desimusicmix.com/",
+         "RadioPic":"https://cdn.webrad.io/images/logos/radios-com-ec/radio-america.png"
       },
       {
          "ID":11,
