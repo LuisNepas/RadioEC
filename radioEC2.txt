@@ -11,7 +11,7 @@
       {
          "ID":1,
          "RadioName":"HCJB",
-         "RadioURL":"https://hcjb.org/wp-content/uploads/2020/12/MC-AUDIO-2020.mp3",
+         "RadioURL":"https://streamingecuador.net:2020/AudioPlayer/hcjbfm?",
          "RadioDesc":"89.3 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desinetworks.org",
@@ -60,7 +60,7 @@
        {
          "ID":6,
          "RadioName":"Galaxia",
-         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-galaxia.m3u8",
+         "RadioURL":"https://d198029jdhg2tj.cloudfront.net/galaxia.m3u8",
          "RadioDesc":"93.7 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.panjabradio.co.uk/",
@@ -78,7 +78,7 @@
       {
          "ID":8,
          "RadioName":"Joya Estereo",
-         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-joya.m3u8",
+         "RadioURL":"https://d189ti2o3c9n0l.cloudfront.net/joya.m3u8",
          "RadioDesc":"97.3 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.dholradio.co/",
@@ -87,7 +87,7 @@
       {
          "ID":9,
          "RadioName":"Alfa Radio",
-         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-alfa.m3u8",
+         "RadioURL":"https://d3h4krpr5elubf.cloudfront.net/alfa.m3u8",
          "RadioDesc":"98.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"https://www.alfa.com.ec/",
