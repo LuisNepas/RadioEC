@@ -2,7 +2,7 @@
       {
          "ID":0,
          "RadioName":"La Metro EC",
-         "RadioURL":"https://radios-ec.cdn.nedmedia.io/radios/ec-lametro.m3u8",
+         "RadioURL":"https://d2dhhyxwmf9o99.cloudfront.net/lametro.m3u8",
          "RadioDesc":"88.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.lametro.com.ec",
