@@ -15,7 +15,7 @@
          "RadioDesc":"89.3 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desinetworks.org",
-         "RadioPic":"https://521178.smushcdn.com/2701741/wp-content/uploads/2021/07/HCJB-90-Normal.jpg?lossy=1&strip=1&webp=1"
+         "RadioPic":"https://terranimal.ec/wp-content/uploads/2012/04/HCJB.png"
          
       },
       
@@ -26,7 +26,7 @@
          "RadioDesc":"90.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desinetworks.org",
-         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/4/29254.v8.png"
+         "RadioPic":"https://static.mytuner.mobi/media/tvos_radios/jJQR4Nwmch.png"
          
       },
        {
@@ -64,7 +64,7 @@
          "RadioDesc":"93.7 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.panjabradio.co.uk/",
-         "RadioPic":"https://us0-cdn.onlineradiobox.com/img/l/6/29916.v6.png"
+         "RadioPic":"https://static.mytuner.mobi/media/tvos_radios/RfPqdhvdJX.jpg"
       },
       {
          "ID":7,
@@ -73,7 +73,7 @@
          "RadioDesc":"96.1 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://radiopunjabivirsa.com/",
-         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/5/30265.v3.png"
+         "RadioPic":"https://cdn-profiles.tunein.com/s110106/images/logod.jpg"
       },
       {
          "ID":8,
@@ -82,7 +82,7 @@
          "RadioDesc":"97.3 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.dholradio.co/",
-         "RadioPic":"https://www.joya.com.ec/wp-content/uploads/sites/14/2021/10/logo-joya.png"
+         "RadioPic":"https://static.mytuner.mobi/media/tvos_radios/BNuBWY4zLh.jpg"
       },
       {
          "ID":9,
@@ -110,7 +110,7 @@
          "RadioDesc":"100.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://punjabi-bhangra.rfpradio.com/",
-         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/6/29456.v13.png"
+         "RadioPic":"https://cdn.onlineradiobox.com/img/l/6/29456.v14.png"
       }, 
      
       
@@ -121,7 +121,7 @@
          "RadioDesc":"102.5 FM",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.raajfm.com/",
-         "RadioPic":"http://us0-cdn.onlineradiobox.com/img/l/9/29559.v6.png"
+         "RadioPic":"https://static.mytuner.mobi/media/tvos_radios/QSHDz8SVxB.png"
       },
       
         
